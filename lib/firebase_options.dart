@@ -35,20 +35,4 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA0dUed66MfASX7183foQbMUbo1Omg0_zg',
-    appId: '1:127850045174:android:6aa218e2b13f0893d156d7',
-    messagingSenderId: '127850045174',
-    projectId: 'my-notes-utku',
-    storageBucket: 'my-notes-utku.firebasestorage.app',
-  );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA3u47pPbRBCP12Uh67SfxngZaZ7NFgQwQ',
-    appId: '1:127850045174:ios:584c62d60f414e77d156d7',
-    messagingSenderId: '127850045174',
-    projectId: 'my-notes-utku',
-    storageBucket: 'my-notes-utku.firebasestorage.app',
-    iosBundleId: 'com.utku.mynotes',
-  );
 }
