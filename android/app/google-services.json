@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "127850045174",
+    "project_id": "my-notes-utku",
+    "storage_bucket": "my-notes-utku.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127850045174:android:6aa218e2b13f0893d156d7",
+        "android_client_info": {
+          "package_name": "com.utku.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0dUed66MfASX7183foQbMUbo1Omg0_zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
